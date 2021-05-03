@@ -1,0 +1,22 @@
+h1 {
+  color: darkcyan;
+}
+
+h3 {
+  color: cadetblue;
+}
+
+body {
+  background-color: paleturquoise;
+}
+
+hr {
+  border-top: 5px dotted gray;
+  width: 5%;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
